@@ -1,0 +1,4 @@
+#for front-end 
+npm start
+#for back-end, go to backend dir
+npm start
