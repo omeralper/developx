@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Request Cash  Component shoud render withdrawbanknotes component properly 1`] = `
+<div
+  className="RequestCash"
+>
+  <form
+    className="text-center border border-light p-5"
+  >
+    <p
+      className="h4 mb-4"
+    >
+      Withdraw Cash
+    </p>
+    <input
+      className="form-control mb-4"
+      onChange={[Function]}
+      placeholder="Amount"
+      type="number"
+    />
+    <input
+      className="btn btn-info my-4"
+      onClick={[Function]}
+      type="buton"
+      value="Submit"
+    />
+  </form>
+</div>
+`;
